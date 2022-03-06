@@ -27,7 +27,7 @@ def get_image(Address,satellite=False):
     r.raise_for_status()
     temp = r.content
     folder = 'satellite_view' if satellite else 'roadmap_view'
-    with open(f'{folder}/{Address.strip()}.png','wb') as file:
+    with open(f'../{folder}/{Address.strip()}.png','wb') as file:
         file.write(temp)
 
 
