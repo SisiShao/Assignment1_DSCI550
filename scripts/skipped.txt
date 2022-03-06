@@ -1,0 +1,68 @@
+503 skipped http://doi.org/10.1128/mBio.00275-11 Epsilon-Toxin Production by Clostridium perfringens Type D Strain CN3718 Is Dependent upon the agr O.html
+503 skipped http://doi.org/10.1128/mBio.00495-12 The Evolutionary Rewiring of Ubiquitination Targets Has Reprogrammed the Regulation of Carbon Assimi.html
+503 skipped http://doi.org/10.1128/mBio.00252-13 Opposing Roles for Two Molecular Forms of Replication Protein A in Rad51-Rad54-Mediated DNA Recombin.html
+404 skipped http://doi.org/PMID: 8675338 Hemin-Induced Modifications of the Antigenicity and Hemin-Binding Capacity of Porphyromonas gingival.html
+404 skipped http://doi.org/PMID: 9864199 Localization of the Intracellular Activity Domain of Pasteurella multocida Toxin to the N Terminus.html
+503 skipped http://doi.org/10.1128/IAI.68.1.72-79.2000 Lymphocyte Function-Associated Antigen 1 Is a Receptor for Pasteurella haemolytica Leukotoxin in Bov.html
+404 skipped http://doi.org/10.1128/IAI.69.10.6131�6139.2001 Mannheimia haemolytica Leukotoxin Activates a Nonreceptor Tyrosine Kinase Signaling Cascade in Bovin.html
+503 skipped http://doi.org/10.1128/IAI.71.2.948-955.2003 Infection by Streptococcus pyogenes Induces the Receptor Activator of NF-__B Ligand Expression in Mo.html
+404 skipped http://doi.org/10.1128/IAI.71.2.766�773.2003 Saccharomyces boulardii Interferes with Enterohemorrhagic Escherichia coli-Induced Signaling Pathway.html
+404 skipped http://doi.org/10.1128/IAI.71.3.1209�1216.2003 Functional CD40 Expression Induced following Bacterial Infection of Mouse and Human Osteoblast.html
+503 skipped http://doi.org/10.1128/IAI.72.3.1223-1229.2004 Role of MyD88 in Diminished Tumor Necrosis Factor Alpha Production by Newborn Mononuclear Cells in R.html
+503 skipped http://doi.org/10.1128/IAI.73.3.1386-1398.2005 Functional Implication of the Hydrolysis of Platelet Endothelial Cell Adhesion Molecule 1 (CD31) by .html
+404 skipped http://doi.org/10.1128/IAI.73.3.1754�1763.2005 Distinct Roles of Pattern Recognition Receptors CD14 and Toll-Like Receptor 4 in Acute Lung Injury.html
+503 skipped http://doi.org/10.1128/IAI.74.2.1148-1155.2006 The Helicobacter pylori Urease B Subunit Binds to CD74 on Gastric Epithelial Cells and Induces NF-__.html
+503 skipped http://doi.org/10.1128/IAI.01192-08 Lactobacillus bulgaricus Prevents Intestinal Epithelial Cell Injury Caused by Enterobacter sakazakii.html
+503 skipped http://doi.org/10.1128/IAI.00913-08 The Yersinia pestis Ail Protein Mediates Binding and Yop Delivery to Host Cells Required for Plague .html
+503 skipped http://doi.org/10.1128/IAI.00156-09 Meningococcal Porin PorB Prevents Cellular Apoptosis in a Toll-Like Receptor 2- and NF-__B-Independe.html
+503 skipped http://doi.org/10.1128/IAI.00956-09 Bacillus anthracis Capsule Activates Caspase-1 and Induces Interleukin-1__ Release from differentiat.html
+503 skipped http://doi.org/10.1128/IAI.01203-10 Nasal Immunization with a Fusion Protein Consisting of the Hemagglutinin A Antigenic Region and the .html
+503 skipped http://doi.org/10.1128/IAI.00805-10 Protein Kinase LegK2 Is a Type IV Secretion System Effector Involved in Endoplasmic Reticulum Recrui.html
+503 skipped http://doi.org/10.1128/IAI.00206-12 Fine Specificity of Plasmodium vivax Duffy Binding Protein Binding Engagement of the Duffy Antigen o.html
+503 skipped http://doi.org/10.1128/IAI.06230-11 NOD2 Signaling Contributes to Host Defense in the Lungs against Escherichia coli Infection.html
+503 skipped http://doi.org/10.1128/IAI.00013-12 Fur-Regulated Iron Uptake System of Edwardsiella ictaluri and Its Influence on Pathogenesis and Immu.html
+503 skipped http://doi.org/10.1128/IAI.05798-11 Association and Evidence for Linked Recognition of Type IV Secretion System Proteins VirB9-1, VirB9-.html
+503 skipped http://doi.org/10.1128/IAI.06056-11 Evaluation of Salmonella enterica Type III Secretion System Effector Proteins as Carriers for Hetero.html
+503 skipped http://doi.org/10.1128/IAI.00063-12 Edwardsiella tarda Eta1, an In Vivo-Induced Antigen That Is Involved in Host Infection.html
+503 skipped http://doi.org/10.1128/IAI.01165-12 The Type VI Secretion System Encoded in Salmonella Pathogenicity Island 19 Is Required for Salmonell.html
+503 skipped http://doi.org/10.1128/IAI.01008-13 Pseudomonas aeruginosa Outer Membrane Vesicles Modulate Host Immune Responses by Targeting the Toll-.html
+503 skipped http://doi.org/10.1128/IAI.00552-13 Poison Domains Block Transit of Translocated Substrates via the Legionella pneumophila IcmDot System.html
+503 skipped http://doi.org/10.1128/IAI.00539-13 Augmentation of Epithelial Resistance to Invading Bacteria by Using mRNA Transfections.html
+503 skipped http://doi.org/10.1128/IAI.06295-11 Reactive Oxygen Species-Triggered Trophoblast Apoptosis Is Initiated by Endoplasmic Reticulum Stress.html
+503 skipped http://doi.org/10.1128/IAI.01769-14 Two Functional Type VI Secretion Systems in Avian Pathogenic Escherichia coli Are Involved in Differ.html
+404 skipped http://doi.org/PMID: 9620397 Cloning and Expression of the 44-Kilodalton Major Outer Membrane Protein Gene of the Human Granulocy.html
+503 skipped http://doi.org/10.1128/JCM.41.8.3584-3591.2003 Genotyping and Phenotyping of Beta2-Toxigenic Clostridium perfringens Fecal Isolates Associated with.html
+503 skipped http://doi.org/10.1128/JCM.41.6.2341-2347.2003 Distribution of the Secondary Type III Secretion System Locus Found in Enterohemorrhagic Escherichia.html
+503 skipped http://doi.org/10.1128/JCM.42.2.665-669.2004 Association of Presence of Aspergillus Antibodies with Hemoptysis in Patients with Old Tuberculosis .html
+503 skipped http://doi.org/10.1128/JCM.42.12.5885-5888.2004 False-Positive Results in a Recombinant Severe Acute Respiratory Syndrome-Associated Coronavirus (SA.html
+503 skipped http://doi.org/10.1128/JCM.42.3.1082-1088.2004 Molecular Cloning, Expression and Serological Evaluation of an 8-Kilodalton Subunit of Antigen B fro.html
+503 skipped http://doi.org/10.1128/JCM.43.7.3512-3515.2005 First Infection with VanD-Type Glycopeptide-Resistant Enterococcus faecium in Europe.html
+503 skipped http://doi.org/10.1128/JCM.43.8.4002-4009.2005 Regulated Expression of the Beta2-Toxin Gene ( cpb2) in Clostridium perfringens Type A Isolates from.html
+503 skipped http://doi.org/10.1128/JCM.00418-06 Characterization of a Large Outbreak by CTX-M-1-Producing Klebsiella pneumoniae and Mechanisms Leadi.html
+503 skipped http://doi.org/10.1128/JCM.44.3.772-776.2006 Effects of Moraxella (Branhamella) ovis Culture Filtrates on Bovine Erythrocytes, Peripheral Mononuc.html
+503 skipped http://doi.org/10.1128/JCM.00001-09 Development and Evaluation of a Sensitive and Specific Assay for Diagnosis of Human Toxocariasis by .html
+503 skipped http://doi.org/10.1002/ijc.27989 The phosphatidylinositol-3 kinase I inhibitor BKM120 induces cell death in B-chronic lymphocytic leu.html
+503 skipped http://doi.org/10.1002/ijc.28032 RAS promotes tumorigenesis through genomic instability induced by imbalanced expression of Aurora-A .html
+503 skipped http://doi.org/10.1002/ijc.28289 Targeting breast cancer-initiatingstem cells with melanoma differentiation-associated gene-7interleu.html
+503 skipped http://doi.org/10.1002/ijc.28001 Caveolin-1 is a novel regulator of K-RAS-dependent migration in colon carcinogenesis.html
+503 skipped http://doi.org/10.1002/ijc.28280 HtrA1 in human urothelial bladder cancer A secreted protein and a potential novel biomarker.html
+503 skipped http://doi.org/10.1002/ijc.27627 Tiam1 is associated with hepatocellular carcinoma metastasis.html
+503 skipped http://doi.org/10.1002/ijc.27863 c-Secretase inhibitor I induces apoptosis in chronic lymphocytic leukemia cells by proteasome inhibi.html
+503 skipped http://doi.org/10.1002/ijc.27730 Inhibition of rhabdomyosarcoma cell and tumor growth by targeting specificity protein (Sp) transcrip.html
+503 skipped http://doi.org/10.1002/ijc.27927 Cross-talk of alpha tocopherol-associated protein and JNK controls the oxidative stress-induced apop.html
+503 skipped http://doi.org/10.1002/ijc.27917 Ovarian cancer cells, not normal cells, are damaged by MirkDyrk1B kinase inhibition.html
+503 skipped http://doi.org/10.1111/j.1365-2672.2010.04795.x Physical characterisation of Tenacibaculum maritimum for vaccine development.html
+503 skipped http://doi.org/10.1111/j.1462-2920.2008.01842.x HD-GYP domain proteins regulate biofilm formation and virulence in Pseudomonas aeruginosa.html
+503 skipped http://doi.org/10.1111/j.1462-2920.2012.02741.x High cellular organization of pyoverdine biosynthesis in Pseudomonas aeruginosa clustering of PvdA a.html
+503 skipped http://doi.org/10.1111/j.1462-2920.2012.02788.x Interplay of RsbM and RsbK controls the sB activity of Bacillus cereuse.html
+503 skipped http://doi.org/10.1111/j.1348-0421.2004.tb03525.x Introduction of 65 kDa Antigen of Mycobacterium tuberculosis to Cancer Cells Enhances Anti-Tumor Eff.html
+503 skipped http://doi.org/10.1111/j.1348-0421.2005.tb03723.x Preparation of Monoclonal Antibodies Cross-Reactive with Orthopoxviruses and Their Application for D.html
+503 skipped http://doi.org/10.1111/j.1348-0421.2010.00241.x Expression of bovine (Bos indicus) interleukin-18 in Escherichia coli and its biological activity.html
+503 skipped http://doi.org/10.1111/j.1472-765X.2012.03263.x Investigation of the roles of T6SS genes in motility, biofilm formation and extracellular protease A.html
+403 skipped http://doi.org/10.1083/jcb.201201133 TspanC8 tetraspanins regulate ADAM10Kuzbanian trafficking and promote Notch activation in flies and .html
+503 skipped http://doi.org/10.1073/pnas.1101273108 Itch E3 ubiquitin ligase regulates large tumor suppressor 1 stability.html
+503 skipped http://doi.org/10.1073/pnas.1108537109 Drosophila Mgr, a Prefoldin subunit cooperating with von Hippel Lindau to regulate tubulin stability.html
+503 skipped http://doi.org/10.1073/pnas.1202214109 The costimulatory immunogen LPS induces the B-Cell clones that infiltrate transplanted human kidneys.html
+503 skipped http://doi.org/10.1073/pnas.1310331110 Shox2 is a molecular determinant of depot-specific adipocyte function.html
+503 skipped http://doi.org/10.1073/pnas.1211179110 LRP-6 is a coreceptor for multiple fibrogenic signaling pathways in pericytes and myofibroblasts tha.html
+503 skipped http://doi.org/10.1073/pnas.1319190110 Interplay of mevalonate and Hippo pathways regulates RHAMM transcription via YAP to modulate breast .html
