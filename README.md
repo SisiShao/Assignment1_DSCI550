@@ -17,7 +17,8 @@ c. Other Journals Published In: source: Google Scholar
 	GScholarScrape/GoogleScholarScrapeJson/gscholarextractjson-auth-titles.py
 	GScholarScrape/Journal/gscholarJournalScraper.py
 
-d. Information about First Author including:							
+d. Information about First Author including:	
+
 	i. Affiliation University: source: DOI 
 		Code: institution_info.py
 
@@ -36,7 +37,7 @@ Others: JoinAuthFeatures.py was used to join part of the author features to the 
 
 
 datasets:
-JoinAuthFeatures/JoinAuthFeatures.py
+	JoinAuthFeatures/JoinAuthFeatures.py
 
 
 Location/location_extraction.ipynb
