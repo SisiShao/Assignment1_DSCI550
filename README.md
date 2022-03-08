@@ -45,7 +45,7 @@ Location/world_cities_dataset.ipynb
 Weather/weather.ipynb
 
 
-GoogleMapsAPI/Combine_dataset.ipynb
+GoogleMapsAPI/Add_Image_features.py
 
 
 	Tika-Similarity: (in similarity.zip)
