@@ -111,7 +111,7 @@ bik.institution_info[emp_list]
 # In[13]:
 
 
-API_KEY = os.environ.get("world_cities_dataset_py_API_KEY")
+API_KEY = "AIzaSyDh_ZUAQSDyu1kvoVR4cED_MNCQcUsRS8U"
 base_url = "https://maps.googleapis.com/maps/api/geocode/json?"
 
 
