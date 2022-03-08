@@ -34,12 +34,26 @@ Others: JoinAuthFeatures.py was used to join part of the author features to the 
 	Code: JoinAuthFeatures/JoinAuthFeatures.py
 
 
+
 datasets:
-JoinAuthFeatures/JoinAuthFeatures.ipynb
+JoinAuthFeatures/JoinAuthFeatures.py
+
 
 Location/location_extraction.ipynb
 Location/world_cities_dataset.ipynb
 Weather/weather.ipynb
 
+
 GoogleMapsAPI/Combine_dataset.ipynb
+
+
+Tika-Similarity: (in similarity.zip)
+step1. in /toka_similarity_modified, run python AllSimilarities.py. This will give us the CSVs from calculating cosine, jaccard similarity, and edit distance.
+step2. in /tika-img-similarity, run the following:
+	python edit-cosine-cluster.py --inputCSV ../similarity_bik_txts/cosine_similarity.csv --cluster 2
+	python edit-cosine-cluster.py --inputCSV ../similarity_bik_txts/jaccard_similarity.csv --cluster 2
+	python edit-cosine-cluster.py --inputCSV ../similarity_bik_txts/edit_similarity.csv --cluster 2
+	This will give us the result cluster.json and cluster-d3.html (for each run)
+Files are saved in similarity_bik_txt.
+
 
